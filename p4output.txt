@@ -1,1 +1,8 @@
-
+enter the degree
+3
+enter the value of x
+3
+enter the 4 coefficients in decreasing order of degree
+1 2 3 4
+value of the polynomial for x=3.00
+4.00 + 3.00X^1  + 2.00X^2  + 1.00X^3  = 58.00

@@ -1,1 +1,10 @@
+gcc -g p5original.c
+./a.out
+enter the size of the array
+5
+enter the 5 numbers
+10 3 4 7 3   
+the index of the largest number from the array
+[10,3,4,7,3]
+is 0
 

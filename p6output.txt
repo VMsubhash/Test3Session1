@@ -1,1 +1,8 @@
-
+gcc -g p6original.c
+./a.out
+enter the sentence
+vikranth has a dog
+the no. of words in the sentence
+vikranth has a dog 
+is
+4
